@@ -1,0 +1,18 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.catFact{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 100px;
+  border: 1px solid green;
+  margin-bottom: 10px;
+  padding: 10px;
+  font-size: 20px;
+}
